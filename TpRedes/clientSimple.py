@@ -21,14 +21,3 @@ print('Cliente recebeu: ', data)
 
 
 s.close()
-
-
-
-
-
-
-
-
-
-
-
