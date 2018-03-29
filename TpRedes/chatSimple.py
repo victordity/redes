@@ -6,7 +6,7 @@ from socket import *
 host = '127.0.0.1'
 server_port = 5152
 
-#Mensagem a ser enviada em bytes
+#Mensagem a ser enviada em byteç ão
 msg = (b'Mensagem teste!')
 
 #criamos o socket e o conectamos ao servidor
