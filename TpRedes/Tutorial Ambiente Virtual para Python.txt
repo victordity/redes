@@ -1,0 +1,17 @@
+
+Tutorial para criar o Ambiente Virtual de Python (Esse ambiente virtual vai ajudar a gerenciar o interpretador Python)
+
+- Crie a pasta onde você irá armazenar seus códigos do trabalho.
+- Abra o git bash 
+- Insira o comando 'pip install virtualenv' 
+- No bash faça o direcionamento para a pasta que você criou (c:\Work\tp0)
+- Insira o comando 'virtualenv env_p3' (env_p3 será o nome do ambiente virtual em que irei instalar o python 3, você pode colocar outro nome)
+- Agora com o ambiente criado, você tem uma pasta do ambiente no diretório que você escolheu, nunca salve nenhum arquivo dentro dela.
+- Se você entrou na pasta de env_p3 pelo bash, saia dela, ficando novamente com o diretório (c:\Work\tp0)
+- Insira o comando para ativar o ambiente virtual 'source env_p3/bin/activate' se o arquivo activate não estiver na bin, procure onde ele está.
+- Insira o comando 'pip'
+- Insira o comando 'pip install ipython'
+- Insira o comando 'pip freeze' e verifique se o ipython foi instalado na lista mostrada.
+- Pronto, o ambiente está criado, ative ele quando for usar o terminal para compilar os programas.
+
+- Entre no site do python, faça o download e instale o python 3
